@@ -1,0 +1,12 @@
+.vin:hover {
+  /* -fx-background-color: #54687d; */
+  -fx-background-color: #5c6166;
+}
+
+.vin{
+  -fx-background-color: #2c3136;
+}
+
+.vin:active{
+  -fx-background-color: black;
+}
